@@ -12,8 +12,14 @@ This script cuts a FASTA (also supports multiple sequences at once) into fragmen
 
 
 # Usage example:
+Basic usage:
 ``` 
 python FASTA-FRAG.py -i in.fasta -s 50 -t 5 -d 10 -o out.fasta  
+```
+
+For help use:
+``` 
+python FASTA-FRAG.py -h  
 ```
 
 
