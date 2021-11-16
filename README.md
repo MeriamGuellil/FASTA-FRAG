@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/428750304.svg)](https://zenodo.org/badge/latestdoi/428750304)
+
 # **FASTA-FRAG**
 
 ### Script to fragment FASTA files into smaller sequence chunks
