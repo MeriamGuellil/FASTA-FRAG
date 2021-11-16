@@ -10,6 +10,13 @@ This script cuts a FASTA (also supports multiple sequences at once) into fragmen
 - python
 - Biopython
 
+
+# Usage example:
+``` 
+python FASTA-FRAG.py -i in.fasta -s 50 -t 5 -d 10 -o out.fasta  
+```
+
+
 # Cite:
 Meriam Guellil. (2021). MeriamGuellil/FASTA-FRAG: (0.0.0). Zenodo. https://doi.org/10.5281/zenodo.5705869
 
