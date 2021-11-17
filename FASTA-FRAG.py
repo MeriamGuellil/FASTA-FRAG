@@ -32,3 +32,5 @@ for chr,seq in ID_DICT.items(): #for each chromosome
 with open (args.outFASTA,'a') as out_fasta:
     for ID,SEQ in FASTA_DICT.items():
         out_fasta.write('>' + str(ID) + '\n' + str(SEQ) + '\n')
+	
+#Meriam Guellil 2021
