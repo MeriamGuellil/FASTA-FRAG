@@ -7,7 +7,7 @@
 This script cuts a FASTA (also supports multiple sequences at once) into fragments of defined length. Depth of Coverage and displacement per coverage/tiling can be defined. First and last fragments can be shorter. Multiple fragment length can be chosen.
 
 # Requirements
-- python
+- python 3
 - Biopython
 
 
